@@ -1,6 +1,5 @@
 # Data-Based-Investment-Guide-for-Retail-Businesses
 
-readme = """
 # Retail Investment Analysis
 
 ## Project Overview
